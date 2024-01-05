@@ -1,2 +1,2 @@
 # Restricted-Min-Norm-Semi-Assignment-in-Group-Formation-Quantum-and-Binary-Algorithmic-Integration
-Reproducibility directory for the numerical results of "Restricted Min-Norm Semi-Assignment in Group Formation: Quantum and Binary Algorithmic Integration", by Stefano Nasini, Luis Fernando Perez Armas.
+Reproducibility directory for the numerical results of "Restricted Min-Norm Semi-Assignment in Group Formation: Quantum and Binary Algorithmic Integration", by Stefano Nasini, Luis Fernando Perez Armas. Copy the whole folder in the local directory and use a Python terminal to run the file 'run_all_python.py'. 
